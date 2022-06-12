@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Plugin_Templates</RootNamespace>
+    <AssemblyName>Plugin Templates</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="HorizonReports.Api" Version="1.0.2" />
+  </ItemGroup>
+</Project>
